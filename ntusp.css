@@ -1,0 +1,65 @@
+.text_y {
+	font-family: "微軟正黑體";
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: bolder;
+	color: #e0d9a7;
+}
+.text_w {
+	font-family: "微軟正黑體";
+	font-size: 20px;
+	line-height: 26px;
+	font-weight: bolder;
+	color: #FFFFFF;
+}
+.cover_w {
+	font-family: "微軟正黑體";
+	font-size: 40px;
+	line-height: 60px;
+	font-weight: bolder;
+	color: #FFFFFF;
+}
+.cover_w.a {
+	font-family: "微軟正黑體";
+	font-size: 40px;
+	line-height: 60px;
+	font-weight: bolder;
+	color: #FFFFFF;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+.cover_r {
+	font-family: "微軟正黑體";
+	font-size: 38px;
+	line-height: 60px;
+	font-weight: bolder;
+	color: #ff009c;
+	filter: Shadow(Color=#000, Direction=45);
+}
+.cover_b {
+	font-family: "微軟正黑體";
+	font-size: 38px;
+	line-height: 60px;
+	font-weight: bolder;
+	color: #10d6d8;
+	filter: Shadow(Color=#000, Direction=45);
+}
+
+.cover_g {
+	font-family: "微軟正黑體";
+	font-size: 38px;
+	line-height: 60px;
+	font-weight: bolder;
+	color: #666666;
+	filter: Shadow(Color=#000, Direction=45);
+}
+
+
+
+.text_g {
+	font-family: "微軟正黑體";
+	font-size: 18px;
+	line-height: 20px;
+	font-weight: bolder;
+	color: #666666;
+}
+

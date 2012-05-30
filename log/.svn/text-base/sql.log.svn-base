@@ -1,0 +1,1 @@
+sql error  SELECT * FROM ntu_party WHERE qrcode=GCJYRS
