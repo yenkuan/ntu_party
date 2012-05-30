@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>NTU SPECIAL - 台灣大學畢業舞會 HugWaltz - Powered by  VOGUE GQ</title>
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url();
+	background-color: #000;
+}
+</style>
+<link href="ntusp.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="950" border="0" align="center" cellpadding="20" cellspacing="0">
+  <tr>
+    <td width="50%" height="155" valign="top"><img src="images/show_ci.jpg" width="167" height="152" /></td>
+    <td width="50%" height="650" rowspan="2" valign="middle"><table width="450" border="0" align="center" cellpadding="0" cellspacing="0"  background="images/show_gq_demo.jpg">
+      <tr>
+        <td height="160" align="left"><img src="images/show_GQ.png" width="275" height="160" /></td>
+      </tr>
+      <tr>
+        <td height="390" align="center" valign="bottom" class="cover_w"><span lang="EN-US" xml:lang="EN-US">It's Good to be A Man </span></td>
+      </tr>
+      <tr>
+        <td height="50">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="495" valign="top"><table width="430" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td class="cover_b">Leon Wang  <span class="cover_g">|</span> 電機系</td>
+      </tr>
+      <tr>
+        <td><h1 class="cover_w" id="watch-headline-title"><span id="eow-title" dir="ltr" title="batfinks - peppercorn">將內心的祝福，在最美好的一刻，一同分享給最愛的大家…</span></h1></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
